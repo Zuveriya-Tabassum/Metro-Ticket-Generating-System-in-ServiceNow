@@ -7,7 +7,7 @@ A ServiceNow Service Catalog project that allows passengers to either book a QR-
 ## 🔗 Project Links
 
 - **Demo Video:** https://www.image2url.com/r2/default/videos/1785522313620-a26240dc-1d70-4dc7-820b-b587d65a8b34.mp4
-- **Project Documentation (PDF/DOCX):** [(https://drive.google.com/drive/u/0/folders/1JFnw9kAjuz5oT_pmoLIhdYS6gfS84dcw)]
+- **Project Documents:** [(https://drive.google.com/drive/folders/1JFnw9kAjuz5oT_pmoLIhdYS6gfS84dcw?usp=sharing)]
 - **ServiceNow PDI Instance:** `(https://dev386209.service-now.com/)`
 
 ---
